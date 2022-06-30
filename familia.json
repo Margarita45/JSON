@@ -5,7 +5,7 @@
             "Apellidos": "Pedrozo Padilla",
             "Edad": 38,
             "Parentezco": "Mamá",
-            "url" : "mama.jpg",
+            "url" : "./img/mama.jpg",
             "Informacion": "Mi mamá es mi heroe, nos ha sacado adelante sola a mi hermana y a mi. Ella es muy generosa, amable y nos ha brindado mucha confianza para contarle las cosas."
 
         },
@@ -14,7 +14,7 @@
             "Apellidos": "Rangel Pedrozo",
             "Edad": 17,
             "Parentezco": "Hermana gemela",
-            "url" : "gemela.jpg",
+            "url" : "./img/gemela.jpg",
             "Informacion": "Mi alma gemela, mi complemento. La vida junto a mi hermana es mas linda y divertida, con ella jamas estoy triste o aburrida. "
         },
         {
@@ -22,7 +22,7 @@
             "Apellidos": "Retamozo Pedrozo",
             "Edad": 8,
             "Parentezco": "Hermana menor",
-            "url" : "hermana-menor.jpg",
+            "url" : "./img/hermana-menor.jpg",
             "Informacion": "Mi chiquita cansona, pero es muy hermosa y loquita y gracias a eso nos saca muchas sonrisas, soy muy feliz a su lado. "
         }
     ]
